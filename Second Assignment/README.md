@@ -79,3 +79,9 @@ On first launch, the `shop.db` database is created automatically and filled with
 
 - Checkout is not implemented yet (placeholder button).
 - Data is stored only on the device; there is no server.
+
+## Screenshots
+
+| Home | Searching item  | Filter by tag | Cart |
+|---------------------------|---------------------------------------|-------------------------------|------------------------------|
+| ![Home](screenshots/home.png) | ![Search item](screenshots/search.png) | ![tags](screenshots/tags.png) | ![Cart](screenshots/cart.png) |
