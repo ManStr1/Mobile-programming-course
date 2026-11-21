@@ -1,0 +1,26 @@
+# Android Studio / IntelliJ
+*.iml
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Gradle
+.gradle
+build/
+/captures
+.externalNativeBuild
+.cxx
+.kotlin/
+
+# Local
+/local.properties
+local.properties
+.DS_Store
+
+# Crash and heap dumps
+hs_err_pid*
+replay_pid*
+*.hprof
